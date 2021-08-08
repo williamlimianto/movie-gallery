@@ -34,7 +34,7 @@ Total workdays: 3 days for [Initial Release] tags feature (+1 for Reactjs and Ne
 Run the following command on your local environment:
 
 ```
-git clone https:.......
+git clone https://github.com/williamlimianto/movie-gallery.git
 npm install
 ```
 
